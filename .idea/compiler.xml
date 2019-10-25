@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="webMagicDemo2" />
+        <module name="webMagicDemo1" />
+        <module name="webMagicDemo5-copy" />
+        <module name="webMagicDemo7" />
+        <module name="webMagicDemo6" />
+        <module name="webMagicDemo5" />
+        <module name="webMagicDemo4" />
+        <module name="webMagicDemo3" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+  <component name="JavacSettings">
+    <option name="PREFER_TARGET_JDK_COMPILER" value="false" />
+  </component>
+</project>
